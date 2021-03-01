@@ -1,0 +1,85 @@
+[{
+    "id": 1,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p84098911.png",
+    "name": "Alisson Ramses Becker",
+    "position": "Goalkeeper (GK)",
+    "club": "Liverpool",
+    "salary": 3577705
+  }, {
+    "id": 2,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p151198320.png",
+    "name": "Virgil van Dijk",
+    "position": "Centre Back (CB)",
+    "club": "Liverpool",
+    "salary": 2967375
+  }, {
+    "id": 3,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p168003441.png",
+    "name": "Trent Alexander-Arnold",
+    "position": "Right Back (RB)",
+    "club": "Liverpool",
+    "salary": 8304475
+  }, {
+    "id": 4,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p117656779.png",
+    "name": "Andrew Robertson",
+    "position": "Left Back (LB)",
+    "club": "Liverpool",
+    "salary": 3874284
+  }, {
+    "id": 5,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p134452971.png",
+    "name": "Matthijs de Ligt",
+    "position": " Centre Back (CB)",
+    "club": "Piemonte Calcio",
+    "salary": 2786979
+  }, {
+    "id": 6,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p167965145.png",
+    "name": "Kevin De Bruyne",
+    "position": "Central Attacking Midfielder (CAM)",
+    "club": "Manchester City",
+    "salary": 3705813
+  }, {
+    "id": 7,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p134433642.png",
+    "name": "N'Golo Kanté",
+    "position": "Defensive Midfielder (CDM)",
+    "club": "Chelsea",
+    "salary": 7252549
+  }, {
+    "id": 8,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p134446430.png",
+    "name": "Frenkie de Jong",
+    "position": "Central Midfielder (CM)",
+    "club": "FC Barcelona",
+    "salary": 4237499
+  }, {
+    "id": 9,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p151152967.png",
+    "name": "Lionel Messi",
+    "position": "Right Winger (RW)",
+    "club": "FC Barcelona",
+    "salary": 4346428
+  }, {
+    "id": 10,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p134449475.png",
+    "name": "Kylian Mbappé",
+    "position": "Striker (ST)",
+    "club": "Paris Saint-Germain",
+    "salary": 4839351
+  }, {
+    "id": 11,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p184758098.png",
+    "name": "Sadio Mané",
+    "position": "Left Winger (LW)",
+    "club": "Liverpool",
+    "salary": 5521405
+  }, {
+    "id": 12,
+    "image": "https://www.fifplay.com/img/fifa/20/players/p117461313.png",
+    "name": "Cristiano Ronaldo",
+    "position": "Striker (ST)",
+    "club": "Piemonte Calcio",
+    "salary": 7463521
+  }]

@@ -1,0 +1,16 @@
+.player-card{
+    /* background-image: url(./player-bg.png); */
+    background-color: #4CAF50;
+    background-color: ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.player-card img{
+    height: 300px;
+    width: 300px;
+}
